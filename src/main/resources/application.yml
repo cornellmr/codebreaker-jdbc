@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: jdbc:derby:codebreaker-db;create=true;collation=TERRITORY_BASED:PRIMARY
+    continue-on-error: true
+    
